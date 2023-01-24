@@ -1,0 +1,153 @@
+.header {
+    background-color: #143548;
+    color: snow;
+    margin: 0;
+    text-align: center;
+    padding: 25px;
+}
+
+table {
+    margin: 0 auto;
+    border-spacing: 25px;
+}
+
+.color-table h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.coor-palette {
+    width: 40%;
+    float: left;
+}
+
+.typography {
+    width: 48%;
+    float: right;
+}
+
+.candy-apple {
+    background-color: #e82535;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.crimson {
+    background-color: #e92830;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.cool-blue {
+    background-color: #074167;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.deep-lake {
+    background-color: #143548;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.gravel {
+    background-color: #565656;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.wet-cement {
+    background-color: #77848e;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.cloudy {
+    background-color: #bbcdd4;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.snow {
+    background-color: #FFFAFA;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.hex {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 10px;
+    font-style: italic;
+}
+
+td {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 12px;
+}
+
+.typography {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.font {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 10px;
+    font-style: italic;
+}
+
+.font-sample h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #143548;
+}
+
+.font-sample h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #143548;
+}
+
+.font-sample h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #074167;
+}
+
+.font-sample h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #074167;
+}
+
+.font-sample h5 {
+    font-family: 'Montserrat', sans-serif;
+    color: #565656;
+}
+
+#body-sample {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+    color: #565656;
+}
+
+#header-type {
+    margin-bottom: 50px;
+    margin-top: -6px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
